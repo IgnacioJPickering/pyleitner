@@ -1,0 +1,13 @@
+# Usual python ignores
+
+__pycache__
+/build*
+/*.egg-info
+/.eggs
+.ipynb_checkpoints
+*.ipt
+*.pyc
+
+# No vim swap files
+*.swp
+*.swo
